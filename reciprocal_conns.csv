@@ -1,0 +1,25 @@
+index,Source,Target,total_synapses,n_postsyn_neurons,Weight,pair,is_reciprocal
+193,B1-5,WED_pr02,6248,10,624.8,"frozenset({'B1-5', 'WED_pr02'})",True
+155,B1-3,WED_pr02,5537,14,395.5,"frozenset({'B1-3', 'WED_pr02'})",True
+141,B1-2,WED_pr02,4316,16,269.75,"frozenset({'B1-2', 'WED_pr02'})",True
+453,WV-WV-2,WED_pr02,2243,21,106.80952380952381,"frozenset({'WED_pr02', 'WV-WV-2'})",True
+437,WV-WV-1,WED_pr02,2011,21,95.76190476190476,"frozenset({'WED_pr02', 'WV-WV-1'})",True
+415,WED_pr02,WED-VLP-1,1757,22,79.86363636363636,"frozenset({'WED-VLP-1', 'WED_pr02'})",True
+9,A2,AVLP_pr01-1,1444,10,144.4,"frozenset({'A2', 'AVLP_pr01-1'})",True
+406,WED_pr02,B1-2,1303,16,81.4375,"frozenset({'B1-2', 'WED_pr02'})",True
+420,WED_pr02,WV-WV-2,1182,6,197.0,"frozenset({'WV-WV-2', 'WED_pr02'})",True
+387,WED-VLP-2,WED_pr02,982,9,109.11111111111111,"frozenset({'WED-VLP-2', 'WED_pr02'})",True
+409,WED_pr02,B1-5,966,13,74.3076923076923,"frozenset({'B1-5', 'WED_pr02'})",True
+427,WV-WV-1,AVLP_pr01-1,935,10,93.5,"frozenset({'AVLP_pr01-1', 'WV-WV-1'})",True
+407,WED_pr02,B1-3,902,8,112.75,"frozenset({'B1-3', 'WED_pr02'})",True
+419,WED_pr02,WV-WV-1,895,3,298.3333333333333,"frozenset({'WV-WV-1', 'WED_pr02'})",True
+416,WED_pr02,WED-VLP-2,796,10,79.6,"frozenset({'WED-VLP-2', 'WED_pr02'})",True
+436,WV-WV-1,WED-VLP-2,765,10,76.5,"frozenset({'WED-VLP-2', 'WV-WV-1'})",True
+374,WED-VLP-1,WED_pr02,463,4,115.75,"frozenset({'WED-VLP-1', 'WED_pr02'})",True
+388,WED-VLP-2,WV-WV-1,422,2,211.0,"frozenset({'WED-VLP-2', 'WV-WV-1'})",True
+472,WV-WV-4,A2,404,4,101.0,"frozenset({'A2', 'WV-WV-4'})",True
+25,AVLP_pr01-1,A2,339,4,84.75,"frozenset({'A2', 'AVLP_pr01-1'})",True
+33,AVLP_pr01-1,WV-WV-1,315,3,105.0,"frozenset({'AVLP_pr01-1', 'WV-WV-1'})",True
+19,A2,WV-WV-4,308,2,154.0,"frozenset({'A2', 'WV-WV-4'})",True
+456,WV-WV-2,WV-WV-3,195,1,195.0,"frozenset({'WV-WV-3', 'WV-WV-2'})",True
+470,WV-WV-3,WV-WV-2,107,2,53.5,"frozenset({'WV-WV-3', 'WV-WV-2'})",True
